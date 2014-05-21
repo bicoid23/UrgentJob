@@ -1,0 +1,14 @@
+To compile:
+g++  -std=c++0x *.cc -pthread -o thread-pool-test.out
+
+~~
+
+If you have implemented a thread pool in C++ before and/or are very experienced, this should be easy. However, you must be a _perfectionist_.
+
+For $60, fix the bugs in thread-pool.cc so it runs properly as specified in the Specs.pdf file. Page 1 of the Specs.pdf has the output of what the correctly implemented thread-pool.cc should produce when tested with thread-pool-test.cc.
+
+The deadline is 11:59 a.m. PST, May 21. NOTE THIS TIME AND ONLY APPLY IF YOU ARE CONFIDENT YOU WILL BE ABLE TO PERFECTLY COMPLETE THE DEBUGGING AND CONFORM TO THE SPECIFICATIONS IN THE PDF FILE BY APPROXIMATELY 11 HOURS FROM NOW.
+
+To get the job, please list credentials as well as ONE bug fix in the code. This is so I know you are reliable. I am very serious about this project.
+
+Thank you very much. :)
